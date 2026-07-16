@@ -1,0 +1,17 @@
+{
+  "name": "projeto-deep-learning-(gosta-de-jogos)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --no-warnings --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0"
+  }
+}

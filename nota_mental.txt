@@ -1,0 +1,21 @@
+1. Ler o JSON
+
+↓
+
+2. Separar entradas e respostas
+
+↓
+
+3. Transformar em tensores
+
+↓
+
+4. Criar a rede neural
+
+↓
+
+5. Treinar
+
+↓
+
+6. Fazer um teste
