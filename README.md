@@ -108,22 +108,16 @@ Durante este projeto foram estudados os seguintes conceitos:
 git clone https://github.com/SEU-USUARIO/machine-learning-playground.git
 ```
 
-### 2 - Entre no projeto
-
-```bash
-cd machine-learning-playground/01-gosta-de-jogos
-```
-
-### 3 - Instale as dependências
+### 2 - Instale as dependências
 
 ```bash
 npm install
 ```
 
-### 4 - Execute o projeto
+### 3 - Execute o projeto
 
 ```bash
-node index.js
+npm start
 ```
 
 ---
