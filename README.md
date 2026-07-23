@@ -104,10 +104,6 @@ Durante este projeto foram estudados os seguintes conceitos:
 
 ### 1 - Clone o repositório
 
-```bash
-git clone https://github.com/SEU-USUARIO/machine-learning-playground.git
-```
-
 ### 2 - Instale as dependências
 
 ```bash
